@@ -1,0 +1,4 @@
+com\example\EasyBudget\controller\UserController.class
+com\example\EasyBudget\repository\UserRepository.class
+com\example\EasyBudget\EasyBudgetApplication.class
+com\example\EasyBudget\model\User.class
